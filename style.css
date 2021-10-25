@@ -106,12 +106,9 @@ nav .bi {
     width: 200px;
     margin-top: 10px;
   }
-<<<<<<< HEAD
   .nav-links ul li ::after {
   display: none;
 }
-=======
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
   .nav-links ul li {
     display: block;
   }
@@ -233,25 +230,16 @@ nav .bi {
   box-sizing: border-box;
   transition: 0.5s;
 }
-<<<<<<< HEAD
 .course-col h3 {font-size: 22px;
-=======
-.course-col h3 {
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
   text-align: center;
   font-weight: 600;
   margin: 10px 0;
 }
-<<<<<<< HEAD
 .course-col p{
   font-size:1.125rem
 }
 .course-col:hover {
   box-shadow: 0 15px 10px rgba(0, 0, 0, 0.4);
-=======
-.course-col:hover {
-  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.4);
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
 }
 /* campus css start */
 .campus {
@@ -428,16 +416,12 @@ nav .bi {
 }
 /* footer css is here */
 .footer {
-<<<<<<< HEAD
   background-color: black;
-=======
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
   width: 100%;
   text-align: center;
   padding-top: 30px 0;
 }
 .footer h4 {
-<<<<<<< HEAD
   color: white;
   margin-bottom: 10px;
   margin-top: 5px;
@@ -447,37 +431,18 @@ nav .bi {
 }
 .footer p {
   color: #ffff;
-=======
-  margin-bottom: 25px;
-  margin-top: vh;
-  text-transform: capitalize;
-  font-size: 36px;
-  font-weight: 600;
-}
-.footer p {
-  color: #777;
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
   font-size: 14px;
   font-weight: 300;
   line-height: 22px;
   padding: 10px;
 }
 .social .fab {
-<<<<<<< HEAD
   color: #ffff;
-=======
-  color: #f44336;
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
   margin: 0 10px;
   cursor: pointer;
   padding: 15px 0;
 }
 .footer span {
-<<<<<<< HEAD
   color: #c7c4c473;
   font-size: 13px;
-=======
-  color: #d3d2d2;
-  font-size: 20px;
->>>>>>> b1151ac0549ee69edef7289d848db78916969e2d
 }
