@@ -29,10 +29,12 @@ nav {
   justify-content: space-between;
   align-items: center;
 }
+
 .nav-links {
   flex: 1;
   text-align: right;
 }
+
 .nav-links .bi {
   display: none;
 }
@@ -53,7 +55,7 @@ nav {
   content: "";
   width: 0%;
   height: 1.5px;
-  background-color: #ee1e1e;
+  background-color: #ee1616;
   display: block;
   margin: auto;
   transition: 0.5s;
