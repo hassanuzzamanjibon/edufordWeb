@@ -89,7 +89,6 @@ nav .bi {
   margin: 0 auto;
 }
 .main-content {
-  background-color: ;
   height: 640px;
   width: 100%;
   margin: 15px 5px 10px 5px;
@@ -182,6 +181,52 @@ nav .bi {
   height: 100%;
   width: 100%;
 }
+.main-content2 {
+  height: 640px;
+  width: 100%;
+  margin: 15px 5px 10px 5px;
+}
+.content2 {
+  text-align: center;
+  float: left;
+  /* background-color: ghostwhite; */
+  height: 100%;
+  width: 48%;
+}
+.content2 h1 {
+  border: 3px solid #f44336;
+  font-size: 40px;
+  padding: 20px;
+  margin: 5px;
+}
+.content2 p {
+  margin: 5px;
+  font-size: 22px;
+  padding: 18px;
+}
+.images2 {
+  margin: 5px;
+  float: right;
+  background-size: cover;
+  width: 50%;
+  height: 100%;
+}
+.images2 img {
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px black;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 98%;
+  width: 98%;
+  transition: 0.7s all;
+}
+.images2 img:hover {
+  box-shadow: 5px 5px 15px black;
+  height: 100%;
+  width: 100%;
+}
 .hero-btn {
   text-align: center;
   display: inline-block;
@@ -237,13 +282,12 @@ nav .bi {
   font-size: 13px;
 }
 @media (max-width: 700px) {
- 
   .header img {
     height: 70px;
     margin-top: 20px;
     width: 200px;
   }
-   .header h1 {
+  .header h1 {
     text-align: center;
     font-size: 15px;
   }
